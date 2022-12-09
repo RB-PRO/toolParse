@@ -1,7 +1,7 @@
 all: run
 
 run:
-	go run main.go
+	go run main.go sitilink.go ozon.go
 
 push:
 	git push git@github.com:RB-PRO/toolParse.git
